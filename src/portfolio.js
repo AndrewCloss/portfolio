@@ -9,7 +9,7 @@ export const about = {
   role: 'Web Developer',
   description:
     'With a passion for self-efficacy and striver of making the complex appear simple.',
-  resume: 'andrewcloss.github.io/portfolio/resume.pdf',
+  resume: 'resume.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/andrew-closs-aa361bb3',
     github: 'https://github.com/AndrewCloss',
@@ -28,9 +28,9 @@ export const projects = [
   {
     name: 'Git flow series',
     description:
-      'Overview of git rebase — the benefits over git merges and keeping git history clean.',
+      'Overview of git rebase — the benefits over git merges and keeping git history clean. Also covers best practices.',
     stack: ['YouTube', 'Git'],
-    livePreview: 'youtube.com',
+    livePreview: 'https://youtu.be/wxDrKS1TAXc',
   },
   {
     name: 'Portfolio',
@@ -55,4 +55,8 @@ export const skills = [
 
 export const contact = {
   email: 'andrew.closs@gmail.com',
+}
+
+export const footer = {
+  link: 'https://github.com/AndrewCloss',
 }
