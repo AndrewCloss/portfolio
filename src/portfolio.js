@@ -1,5 +1,5 @@
 export const header = {
-  homepage: 'andrewcloss.github.io/portfolio',
+  homepage: 'https://andrewcloss.github.io/portfolio',
   title: 'JS.',
 }
 
